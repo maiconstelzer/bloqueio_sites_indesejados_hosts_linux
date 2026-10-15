@@ -7,6 +7,6 @@
 ---
 - Colocar arquivo gerado, em /etc/ (deve ter o nome 'hosts' para surgir efeito);
 - Arquivo base.txt contém as configs básicas da sua rede local, pode ser utilizado o conteúdo que já existe no seu arquivo /etc/hosts;
-
+- O arquivo gerado pode ser utilizado para inserir no roteador, bloqueando assim em todos os dispositivos conectados no mesmo;
 ---
 ### Dúvidas: maiconstelzer@proton.me
